@@ -1,0 +1,135 @@
+CUBA POMAJAMBO VICTORIA FIORELLA                   134.78     Geriatria
+URBINA ANTEZANO VALENTINA PAULA                    233.77     Ginecologia
+DEL CASTILLO MEJIA GUSTAVO ALONSO                  164.27     Urologia
+MUNOZ VERGEL EDGAR                                 191.65     Gastroenterologia
+FLORENCIO POLO FIORELLA ERIKA                      148.47     Endocrinologia
+CABRERA MORI GLENDA                                142.16     Urologia
+SHIRAKAWA SAONA VICTORIA MILAGROS                  152.69     Dermatologia
+CABRERA MORENO DELIA ESTEFANIA MARIA MARIA         208.49     Traumatologia
+LANDA CABRERA JAVIER EDGARD                        165.32     Traumatologia
+SHIRAKAWA FLORIAN JAIME JULIAN PEDRO PEDRO JOSE    117.94     Oftalmologia
+ACUNA AYLLON BLANCA LUZ                            215.87     Ginecologia
+ARANDA MINAYA JANET CINTHIA                        129.52     Ginecologia
+ORTIZ GUEVARA YLIANA FLOR                          153.74     Dermatologia
+MERCADO CARO OFELIA CARMEN                         136.89     Neumologia
+DEL CASTILLO CHUNG FELICITA ERIKA                  168.48     Cardiologia
+ZARATE URBINA DELIA                                146.37     Endocrinologia
+TABORI ARIAS ROSARIO                                123.2     Ginecologia
+ZAMORA CABRERA CARMEN                              151.63     Dermatologia
+SAENZ ARANDA WILMER                                 210.6     Oftalmologia
+CALIXTO TORRES MIGUEL                              197.96     Pediatria
+ZIMIC SALAS FRANCISCO                              231.66     Urologia
+CHUNG ZUNIGA ZKENIA IRMA                           250.61     Endocrinologia
+MORI SUAREZ EDILBERTO JESUS TEOBALDO TEOBALDO      145.31     Gastroenterologia
+AYALA ZEVALLOS JOHAN ENRIQUE                       204.28     Neumologia
+COLLADO VILLA RAUL                                 213.76     Dermatologia
+JOLAY CHUMPITAZ WALTER                             194.81     Traumatologia
+PORTUGAL RAFFO ALEXANDER                           130.57     Cardiologia
+AMEZQUITA CONTRERAS HUMBERTO ALFONSO               135.84     Gastroenterologia
+PEREZ ANTEZANO DAVID CARLOS                        211.65     Neumologia
+ZEGARRA CABELLO CINTHIA MILENA                     250.61     Dermatologia
+ACUNA AYLLON BLANCA LUZ                            234.82     Traumatologia
+COLLADO VILLA RAUL                                  141.1     Traumatologia
+ORTIZ GUEVARA YLIANA FLOR                          222.18     Endocrinologia
+DEL CASTILLO CHUNG FELICITA ERIKA                   228.5     Cardiologia
+URBINA ANTEZANO VALENTINA PAULA                    215.87     Oftalmologia
+LANDA CABRERA JAVIER EDGARD                        208.49     Ginecologia
+MORI SUAREZ EDILBERTO JESUS TEOBALDO TEOBALDO      170.59     Traumatologia
+FLORENCIO POLO FIORELLA ERIKA                      197.96     Traumatologia
+CUBA POMAJAMBO VICTORIA FIORELLA                   110.57     Pediatria
+AMEZQUITA CONTRERAS HUMBERTO ALFONSO               204.28     Pediatria
+JOLAY CHUMPITAZ WALTER                             175.85     Cardiologia
+ZIMIC SALAS FRANCISCO                              233.77     Ginecologia
+MERCADO CARO OFELIA CARMEN                         115.83     Urologia
+ZARATE URBINA DELIA                                243.24     Gastroenterologia
+CHUNG ZUNIGA ZKENIA IRMA                           179.01     Oncologia
+SHIRAKAWA SAONA VICTORIA MILAGROS                  191.65     Pediatria
+TABORI ARIAS ROSARIO                                262.2     Gastroenterologia
+SAENZ ARANDA WILMER                                237.98     Gastroenterologia
+CABRERA MORENO DELIA ESTEFANIA MARIA MARIA         152.69     Oftalmologia
+ZEGARRA CABELLO CINTHIA MILENA                     157.95     Pediatria
+SHIRAKAWA FLORIAN JAIME JULIAN PEDRO PEDRO JOSE    133.73     Urologia
+MUNOZ VERGEL EDGAR                                 147.42     Urologia
+CABRERA MORI GLENDA                                118.99     Cardiologia
+CALIXTO TORRES MIGUEL                              245.35     Dermatologia
+DEL CASTILLO MEJIA GUSTAVO ALONSO                   97.93     Urologia
+AYALA ZEVALLOS JOHAN ENRIQUE                       101.09     Ginecologia
+PEREZ ANTEZANO DAVID CARLOS                        254.83     Cardiologia
+ZAMORA CABRERA CARMEN                              207.44     Gastroenterologia
+PORTUGAL RAFFO ALEXANDER                            226.4     Ginecologia
+ARANDA MINAYA JANET CINTHIA                        184.28     Endocrinologia
+ZEGARRA CABELLO CINTHIA MILENA                      94.77     Neumologia
+MORI SUAREZ EDILBERTO JESUS TEOBALDO TEOBALDO      202.18     Dermatologia
+DEL CASTILLO CHUNG FELICITA ERIKA                   246.4     Gastroenterologia
+ORTIZ GUEVARA YLIANA FLOR                          170.59     Dermatologia
+SAENZ ARANDA WILMER                                 141.1     Dermatologia
+SHIRAKAWA FLORIAN JAIME JULIAN PEDRO PEDRO JOSE    191.65     Pediatria
+PORTUGAL RAFFO ALEXANDER                           103.19     Ginecologia
+MERCADO CARO OFELIA CARMEN                         172.69     Geriatria
+DEL CASTILLO MEJIA GUSTAVO ALONSO                  157.95     Pediatria
+CUBA POMAJAMBO VICTORIA FIORELLA                   221.13     Cardiologia
+CABRERA MORENO DELIA ESTEFANIA MARIA MARIA         256.93     Oncologia
+AMEZQUITA CONTRERAS HUMBERTO ALFONSO               195.86     Pediatria
+URBINA ANTEZANO VALENTINA PAULA                    260.09     Ginecologia
+LANDA CABRERA JAVIER EDGARD                        253.77     Dermatologia
+CHUNG ZUNIGA ZKENIA IRMA                           259.04     Oftalmologia
+ZAMORA CABRERA CARMEN                              128.47     Traumatologia
+FLORENCIO POLO FIORELLA ERIKA                      118.99     Pediatria
+JOLAY CHUMPITAZ WALTER                             120.04     Endocrinologia
+PEREZ ANTEZANO DAVID CARLOS                        190.59     Neumologia
+CABRERA MORI GLENDA                                188.49     Cardiologia
+ZIMIC SALAS FRANCISCO                              185.33     Geriatria
+AYALA ZEVALLOS JOHAN ENRIQUE                        105.3     Dermatologia
+COLLADO VILLA RAUL                                 207.44     Neumologia
+ARANDA MINAYA JANET CINTHIA                        120.04     Urologia
+ACUNA AYLLON BLANCA LUZ                            191.65     Endocrinologia
+SHIRAKAWA SAONA VICTORIA MILAGROS                  160.06     Traumatologia
+CALIXTO TORRES MIGUEL                              211.65     Endocrinologia
+TABORI ARIAS ROSARIO                               127.41     Urologia
+MUNOZ VERGEL EDGAR                                 168.48     Neumologia
+ZARATE URBINA DELIA                                185.33     Ginecologia
+PEREZ ANTEZANO DAVID CARLOS                        108.46     Neumologia
+ZEGARRA CABELLO CINTHIA MILENA                     245.35     Geriatria
+CHUNG ZUNIGA ZKENIA IRMA                           202.18     Traumatologia
+JOLAY CHUMPITAZ WALTER                             144.26     Endocrinologia
+ZARATE URBINA DELIA                                165.32     Oncologia
+PORTUGAL RAFFO ALEXANDER                           261.14     Ginecologia
+CABRERA MORI GLENDA                                151.63     Urologia
+COLLADO VILLA RAUL                                 100.04     Cardiologia
+SHIRAKAWA FLORIAN JAIME JULIAN PEDRO PEDRO JOSE    205.34     Oncologia
+TABORI ARIAS ROSARIO                               112.67     Endocrinologia
+AMEZQUITA CONTRERAS HUMBERTO ALFONSO                  139     Traumatologia
+CABRERA MORENO DELIA ESTEFANIA MARIA MARIA         263.25     Pediatria
+CALIXTO TORRES MIGUEL                              131.63     Gastroenterologia
+SHIRAKAWA SAONA VICTORIA MILAGROS                  102.14     Oncologia
+ARANDA MINAYA JANET CINTHIA                        204.28     Gastroenterologia
+URBINA ANTEZANO VALENTINA PAULA                    117.94     Cardiologia
+MORI SUAREZ EDILBERTO JESUS TEOBALDO TEOBALDO      190.59     Urologia
+AYALA ZEVALLOS JOHAN ENRIQUE                       206.39     Urologia
+SAENZ ARANDA WILMER                                 121.1     Pediatria
+MUNOZ VERGEL EDGAR                                 126.36     Oncologia
+MERCADO CARO OFELIA CARMEN                         229.55     Urologia
+ZAMORA CABRERA CARMEN                              194.81     Ginecologia
+DEL CASTILLO MEJIA GUSTAVO ALONSO                  173.75     Gastroenterologia
+ORTIZ GUEVARA YLIANA FLOR                          213.76     Ginecologia
+ACUNA AYLLON BLANCA LUZ                            172.69     Pediatria
+DEL CASTILLO CHUNG FELICITA ERIKA                  229.55     Endocrinologia
+LANDA CABRERA JAVIER EDGARD                        237.98     Geriatria
+ZAMORA CABRERA CARMEN                              222.18     Ginecologia
+JOLAY CHUMPITAZ WALTER                             166.37     Urologia
+CUBA POMAJAMBO VICTORIA FIORELLA                    262.2     Dermatologia
+DEL CASTILLO CHUNG FELICITA ERIKA                  216.92     Urologia
+DEL CASTILLO MEJIA GUSTAVO ALONSO                  114.78     Geriatria
+ORTIZ GUEVARA YLIANA FLOR                          249.56     Endocrinologia
+AMEZQUITA CONTRERAS HUMBERTO ALFONSO                210.6     Endocrinologia
+AYALA ZEVALLOS JOHAN ENRIQUE                       164.27     Cardiologia
+PEREZ ANTEZANO DAVID CARLOS                        245.35     Neumologia
+ZEGARRA CABELLO CINTHIA MILENA                     200.07     Cardiologia
+TABORI ARIAS ROSARIO                                141.1     Oncologia
+URBINA ANTEZANO VALENTINA PAULA                    249.56     Ginecologia
+ZIMIC SALAS FRANCISCO                              190.59     Traumatologia
+ZARATE URBINA DELIA                                203.23     Ginecologia
+MUNOZ VERGEL EDGAR                                 173.75     Oncologia
+ARANDA MINAYA JANET CINTHIA                        110.57     Urologia
+COLLADO VILLA RAUL                                 184.28     Dermatologia
+CALIXTO TORRES MIGUEL                              209.55     Ginecologia

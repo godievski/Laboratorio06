@@ -1,0 +1,540 @@
+Nombre: CABRERA MORENO DELIA ESTEFANIA MARIA MARIA
+Sueldo: 263.25
+Especialidad: Pediatria
+-----------------------------------------------------
+Nombre: TABORI ARIAS ROSARIO
+Sueldo: 262.2
+Especialidad: Gastroenterologia
+-----------------------------------------------------
+Nombre: CUBA POMAJAMBO VICTORIA FIORELLA
+Sueldo: 262.2
+Especialidad: Dermatologia
+-----------------------------------------------------
+Nombre: PORTUGAL RAFFO ALEXANDER
+Sueldo: 261.14
+Especialidad: Ginecologia
+-----------------------------------------------------
+Nombre: URBINA ANTEZANO VALENTINA PAULA
+Sueldo: 260.09
+Especialidad: Ginecologia
+-----------------------------------------------------
+Nombre: CHUNG ZUNIGA ZKENIA IRMA
+Sueldo: 259.04
+Especialidad: Oftalmologia
+-----------------------------------------------------
+Nombre: CABRERA MORENO DELIA ESTEFANIA MARIA MARIA
+Sueldo: 256.93
+Especialidad: Oncologia
+-----------------------------------------------------
+Nombre: PEREZ ANTEZANO DAVID CARLOS
+Sueldo: 254.83
+Especialidad: Cardiologia
+-----------------------------------------------------
+Nombre: LANDA CABRERA JAVIER EDGARD
+Sueldo: 253.77
+Especialidad: Dermatologia
+-----------------------------------------------------
+Nombre: CHUNG ZUNIGA ZKENIA IRMA
+Sueldo: 250.61
+Especialidad: Endocrinologia
+-----------------------------------------------------
+Nombre: ZEGARRA CABELLO CINTHIA MILENA
+Sueldo: 250.61
+Especialidad: Dermatologia
+-----------------------------------------------------
+Nombre: ORTIZ GUEVARA YLIANA FLOR
+Sueldo: 249.56
+Especialidad: Endocrinologia
+-----------------------------------------------------
+Nombre: URBINA ANTEZANO VALENTINA PAULA
+Sueldo: 249.56
+Especialidad: Ginecologia
+-----------------------------------------------------
+Nombre: DEL CASTILLO CHUNG FELICITA ERIKA
+Sueldo: 246.4
+Especialidad: Gastroenterologia
+-----------------------------------------------------
+Nombre: CALIXTO TORRES MIGUEL
+Sueldo: 245.35
+Especialidad: Dermatologia
+-----------------------------------------------------
+Nombre: ZEGARRA CABELLO CINTHIA MILENA
+Sueldo: 245.35
+Especialidad: Geriatria
+-----------------------------------------------------
+Nombre: PEREZ ANTEZANO DAVID CARLOS
+Sueldo: 245.35
+Especialidad: Neumologia
+-----------------------------------------------------
+Nombre: ZARATE URBINA DELIA
+Sueldo: 243.24
+Especialidad: Gastroenterologia
+-----------------------------------------------------
+Nombre: SAENZ ARANDA WILMER
+Sueldo: 237.98
+Especialidad: Gastroenterologia
+-----------------------------------------------------
+Nombre: LANDA CABRERA JAVIER EDGARD
+Sueldo: 237.98
+Especialidad: Geriatria
+-----------------------------------------------------
+Nombre: ACUNA AYLLON BLANCA LUZ
+Sueldo: 234.82
+Especialidad: Traumatologia
+-----------------------------------------------------
+Nombre: URBINA ANTEZANO VALENTINA PAULA
+Sueldo: 233.77
+Especialidad: Ginecologia
+-----------------------------------------------------
+Nombre: ZIMIC SALAS FRANCISCO
+Sueldo: 233.77
+Especialidad: Ginecologia
+-----------------------------------------------------
+Nombre: ZIMIC SALAS FRANCISCO
+Sueldo: 231.66
+Especialidad: Urologia
+-----------------------------------------------------
+Nombre: MERCADO CARO OFELIA CARMEN
+Sueldo: 229.55
+Especialidad: Urologia
+-----------------------------------------------------
+Nombre: DEL CASTILLO CHUNG FELICITA ERIKA
+Sueldo: 229.55
+Especialidad: Endocrinologia
+-----------------------------------------------------
+Nombre: DEL CASTILLO CHUNG FELICITA ERIKA
+Sueldo: 228.5
+Especialidad: Cardiologia
+-----------------------------------------------------
+Nombre: PORTUGAL RAFFO ALEXANDER
+Sueldo: 226.4
+Especialidad: Ginecologia
+-----------------------------------------------------
+Nombre: ORTIZ GUEVARA YLIANA FLOR
+Sueldo: 222.18
+Especialidad: Endocrinologia
+-----------------------------------------------------
+Nombre: ZAMORA CABRERA CARMEN
+Sueldo: 222.18
+Especialidad: Ginecologia
+-----------------------------------------------------
+Nombre: CUBA POMAJAMBO VICTORIA FIORELLA
+Sueldo: 221.13
+Especialidad: Cardiologia
+-----------------------------------------------------
+Nombre: DEL CASTILLO CHUNG FELICITA ERIKA
+Sueldo: 216.92
+Especialidad: Urologia
+-----------------------------------------------------
+Nombre: ACUNA AYLLON BLANCA LUZ
+Sueldo: 215.87
+Especialidad: Ginecologia
+-----------------------------------------------------
+Nombre: URBINA ANTEZANO VALENTINA PAULA
+Sueldo: 215.87
+Especialidad: Oftalmologia
+-----------------------------------------------------
+Nombre: COLLADO VILLA RAUL
+Sueldo: 213.76
+Especialidad: Dermatologia
+-----------------------------------------------------
+Nombre: ORTIZ GUEVARA YLIANA FLOR
+Sueldo: 213.76
+Especialidad: Ginecologia
+-----------------------------------------------------
+Nombre: PEREZ ANTEZANO DAVID CARLOS
+Sueldo: 211.65
+Especialidad: Neumologia
+-----------------------------------------------------
+Nombre: CALIXTO TORRES MIGUEL
+Sueldo: 211.65
+Especialidad: Endocrinologia
+-----------------------------------------------------
+Nombre: SAENZ ARANDA WILMER
+Sueldo: 210.6
+Especialidad: Oftalmologia
+-----------------------------------------------------
+Nombre: AMEZQUITA CONTRERAS HUMBERTO ALFONSO
+Sueldo: 210.6
+Especialidad: Endocrinologia
+-----------------------------------------------------
+Nombre: CALIXTO TORRES MIGUEL
+Sueldo: 209.55
+Especialidad: Ginecologia
+-----------------------------------------------------
+Nombre: CABRERA MORENO DELIA ESTEFANIA MARIA MARIA
+Sueldo: 208.49
+Especialidad: Traumatologia
+-----------------------------------------------------
+Nombre: LANDA CABRERA JAVIER EDGARD
+Sueldo: 208.49
+Especialidad: Ginecologia
+-----------------------------------------------------
+Nombre: ZAMORA CABRERA CARMEN
+Sueldo: 207.44
+Especialidad: Gastroenterologia
+-----------------------------------------------------
+Nombre: COLLADO VILLA RAUL
+Sueldo: 207.44
+Especialidad: Neumologia
+-----------------------------------------------------
+Nombre: AYALA ZEVALLOS JOHAN ENRIQUE
+Sueldo: 206.39
+Especialidad: Urologia
+-----------------------------------------------------
+Nombre: SHIRAKAWA FLORIAN JAIME JULIAN PEDRO PEDRO JOSE
+Sueldo: 205.34
+Especialidad: Oncologia
+-----------------------------------------------------
+Nombre: AYALA ZEVALLOS JOHAN ENRIQUE
+Sueldo: 204.28
+Especialidad: Neumologia
+-----------------------------------------------------
+Nombre: AMEZQUITA CONTRERAS HUMBERTO ALFONSO
+Sueldo: 204.28
+Especialidad: Pediatria
+-----------------------------------------------------
+Nombre: ARANDA MINAYA JANET CINTHIA
+Sueldo: 204.28
+Especialidad: Gastroenterologia
+-----------------------------------------------------
+Nombre: ZARATE URBINA DELIA
+Sueldo: 203.23
+Especialidad: Ginecologia
+-----------------------------------------------------
+Nombre: MORI SUAREZ EDILBERTO JESUS TEOBALDO TEOBALDO
+Sueldo: 202.18
+Especialidad: Dermatologia
+-----------------------------------------------------
+Nombre: CHUNG ZUNIGA ZKENIA IRMA
+Sueldo: 202.18
+Especialidad: Traumatologia
+-----------------------------------------------------
+Nombre: ZEGARRA CABELLO CINTHIA MILENA
+Sueldo: 200.07
+Especialidad: Cardiologia
+-----------------------------------------------------
+Nombre: CALIXTO TORRES MIGUEL
+Sueldo: 197.96
+Especialidad: Pediatria
+-----------------------------------------------------
+Nombre: FLORENCIO POLO FIORELLA ERIKA
+Sueldo: 197.96
+Especialidad: Traumatologia
+-----------------------------------------------------
+Nombre: AMEZQUITA CONTRERAS HUMBERTO ALFONSO
+Sueldo: 195.86
+Especialidad: Pediatria
+-----------------------------------------------------
+Nombre: JOLAY CHUMPITAZ WALTER
+Sueldo: 194.81
+Especialidad: Traumatologia
+-----------------------------------------------------
+Nombre: ZAMORA CABRERA CARMEN
+Sueldo: 194.81
+Especialidad: Ginecologia
+-----------------------------------------------------
+Nombre: MUNOZ VERGEL EDGAR
+Sueldo: 191.65
+Especialidad: Gastroenterologia
+-----------------------------------------------------
+Nombre: SHIRAKAWA SAONA VICTORIA MILAGROS
+Sueldo: 191.65
+Especialidad: Pediatria
+-----------------------------------------------------
+Nombre: SHIRAKAWA FLORIAN JAIME JULIAN PEDRO PEDRO JOSE
+Sueldo: 191.65
+Especialidad: Pediatria
+-----------------------------------------------------
+Nombre: ACUNA AYLLON BLANCA LUZ
+Sueldo: 191.65
+Especialidad: Endocrinologia
+-----------------------------------------------------
+Nombre: PEREZ ANTEZANO DAVID CARLOS
+Sueldo: 190.59
+Especialidad: Neumologia
+-----------------------------------------------------
+Nombre: MORI SUAREZ EDILBERTO JESUS TEOBALDO TEOBALDO
+Sueldo: 190.59
+Especialidad: Urologia
+-----------------------------------------------------
+Nombre: ZIMIC SALAS FRANCISCO
+Sueldo: 190.59
+Especialidad: Traumatologia
+-----------------------------------------------------
+Nombre: CABRERA MORI GLENDA
+Sueldo: 188.49
+Especialidad: Cardiologia
+-----------------------------------------------------
+Nombre: ZIMIC SALAS FRANCISCO
+Sueldo: 185.33
+Especialidad: Geriatria
+-----------------------------------------------------
+Nombre: ZARATE URBINA DELIA
+Sueldo: 185.33
+Especialidad: Ginecologia
+-----------------------------------------------------
+Nombre: ARANDA MINAYA JANET CINTHIA
+Sueldo: 184.28
+Especialidad: Endocrinologia
+-----------------------------------------------------
+Nombre: COLLADO VILLA RAUL
+Sueldo: 184.28
+Especialidad: Dermatologia
+-----------------------------------------------------
+Nombre: CHUNG ZUNIGA ZKENIA IRMA
+Sueldo: 179.01
+Especialidad: Oncologia
+-----------------------------------------------------
+Nombre: JOLAY CHUMPITAZ WALTER
+Sueldo: 175.85
+Especialidad: Cardiologia
+-----------------------------------------------------
+Nombre: DEL CASTILLO MEJIA GUSTAVO ALONSO
+Sueldo: 173.75
+Especialidad: Gastroenterologia
+-----------------------------------------------------
+Nombre: MUNOZ VERGEL EDGAR
+Sueldo: 173.75
+Especialidad: Oncologia
+-----------------------------------------------------
+Nombre: MERCADO CARO OFELIA CARMEN
+Sueldo: 172.69
+Especialidad: Geriatria
+-----------------------------------------------------
+Nombre: ACUNA AYLLON BLANCA LUZ
+Sueldo: 172.69
+Especialidad: Pediatria
+-----------------------------------------------------
+Nombre: MORI SUAREZ EDILBERTO JESUS TEOBALDO TEOBALDO
+Sueldo: 170.59
+Especialidad: Traumatologia
+-----------------------------------------------------
+Nombre: ORTIZ GUEVARA YLIANA FLOR
+Sueldo: 170.59
+Especialidad: Dermatologia
+-----------------------------------------------------
+Nombre: DEL CASTILLO CHUNG FELICITA ERIKA
+Sueldo: 168.48
+Especialidad: Cardiologia
+-----------------------------------------------------
+Nombre: MUNOZ VERGEL EDGAR
+Sueldo: 168.48
+Especialidad: Neumologia
+-----------------------------------------------------
+Nombre: JOLAY CHUMPITAZ WALTER
+Sueldo: 166.37
+Especialidad: Urologia
+-----------------------------------------------------
+Nombre: LANDA CABRERA JAVIER EDGARD
+Sueldo: 165.32
+Especialidad: Traumatologia
+-----------------------------------------------------
+Nombre: ZARATE URBINA DELIA
+Sueldo: 165.32
+Especialidad: Oncologia
+-----------------------------------------------------
+Nombre: DEL CASTILLO MEJIA GUSTAVO ALONSO
+Sueldo: 164.27
+Especialidad: Urologia
+-----------------------------------------------------
+Nombre: AYALA ZEVALLOS JOHAN ENRIQUE
+Sueldo: 164.27
+Especialidad: Cardiologia
+-----------------------------------------------------
+Nombre: SHIRAKAWA SAONA VICTORIA MILAGROS
+Sueldo: 160.06
+Especialidad: Traumatologia
+-----------------------------------------------------
+Nombre: ZEGARRA CABELLO CINTHIA MILENA
+Sueldo: 157.95
+Especialidad: Pediatria
+-----------------------------------------------------
+Nombre: DEL CASTILLO MEJIA GUSTAVO ALONSO
+Sueldo: 157.95
+Especialidad: Pediatria
+-----------------------------------------------------
+Nombre: ORTIZ GUEVARA YLIANA FLOR
+Sueldo: 153.74
+Especialidad: Dermatologia
+-----------------------------------------------------
+Nombre: SHIRAKAWA SAONA VICTORIA MILAGROS
+Sueldo: 152.69
+Especialidad: Dermatologia
+-----------------------------------------------------
+Nombre: CABRERA MORENO DELIA ESTEFANIA MARIA MARIA
+Sueldo: 152.69
+Especialidad: Oftalmologia
+-----------------------------------------------------
+Nombre: ZAMORA CABRERA CARMEN
+Sueldo: 151.63
+Especialidad: Dermatologia
+-----------------------------------------------------
+Nombre: CABRERA MORI GLENDA
+Sueldo: 151.63
+Especialidad: Urologia
+-----------------------------------------------------
+Nombre: FLORENCIO POLO FIORELLA ERIKA
+Sueldo: 148.47
+Especialidad: Endocrinologia
+-----------------------------------------------------
+Nombre: MUNOZ VERGEL EDGAR
+Sueldo: 147.42
+Especialidad: Urologia
+-----------------------------------------------------
+Nombre: ZARATE URBINA DELIA
+Sueldo: 146.37
+Especialidad: Endocrinologia
+-----------------------------------------------------
+Nombre: MORI SUAREZ EDILBERTO JESUS TEOBALDO TEOBALDO
+Sueldo: 145.31
+Especialidad: Gastroenterologia
+-----------------------------------------------------
+Nombre: JOLAY CHUMPITAZ WALTER
+Sueldo: 144.26
+Especialidad: Endocrinologia
+-----------------------------------------------------
+Nombre: CABRERA MORI GLENDA
+Sueldo: 142.16
+Especialidad: Urologia
+-----------------------------------------------------
+Nombre: COLLADO VILLA RAUL
+Sueldo: 141.1
+Especialidad: Traumatologia
+-----------------------------------------------------
+Nombre: SAENZ ARANDA WILMER
+Sueldo: 141.1
+Especialidad: Dermatologia
+-----------------------------------------------------
+Nombre: TABORI ARIAS ROSARIO
+Sueldo: 141.1
+Especialidad: Oncologia
+-----------------------------------------------------
+Nombre: AMEZQUITA CONTRERAS HUMBERTO ALFONSO
+Sueldo: 139
+Especialidad: Traumatologia
+-----------------------------------------------------
+Nombre: MERCADO CARO OFELIA CARMEN
+Sueldo: 136.89
+Especialidad: Neumologia
+-----------------------------------------------------
+Nombre: AMEZQUITA CONTRERAS HUMBERTO ALFONSO
+Sueldo: 135.84
+Especialidad: Gastroenterologia
+-----------------------------------------------------
+Nombre: CUBA POMAJAMBO VICTORIA FIORELLA
+Sueldo: 134.78
+Especialidad: Geriatria
+-----------------------------------------------------
+Nombre: SHIRAKAWA FLORIAN JAIME JULIAN PEDRO PEDRO JOSE
+Sueldo: 133.73
+Especialidad: Urologia
+-----------------------------------------------------
+Nombre: CALIXTO TORRES MIGUEL
+Sueldo: 131.63
+Especialidad: Gastroenterologia
+-----------------------------------------------------
+Nombre: PORTUGAL RAFFO ALEXANDER
+Sueldo: 130.57
+Especialidad: Cardiologia
+-----------------------------------------------------
+Nombre: ARANDA MINAYA JANET CINTHIA
+Sueldo: 129.52
+Especialidad: Ginecologia
+-----------------------------------------------------
+Nombre: ZAMORA CABRERA CARMEN
+Sueldo: 128.47
+Especialidad: Traumatologia
+-----------------------------------------------------
+Nombre: TABORI ARIAS ROSARIO
+Sueldo: 127.41
+Especialidad: Urologia
+-----------------------------------------------------
+Nombre: MUNOZ VERGEL EDGAR
+Sueldo: 126.36
+Especialidad: Oncologia
+-----------------------------------------------------
+Nombre: TABORI ARIAS ROSARIO
+Sueldo: 123.2
+Especialidad: Ginecologia
+-----------------------------------------------------
+Nombre: SAENZ ARANDA WILMER
+Sueldo: 121.1
+Especialidad: Pediatria
+-----------------------------------------------------
+Nombre: JOLAY CHUMPITAZ WALTER
+Sueldo: 120.04
+Especialidad: Endocrinologia
+-----------------------------------------------------
+Nombre: ARANDA MINAYA JANET CINTHIA
+Sueldo: 120.04
+Especialidad: Urologia
+-----------------------------------------------------
+Nombre: CABRERA MORI GLENDA
+Sueldo: 118.99
+Especialidad: Cardiologia
+-----------------------------------------------------
+Nombre: FLORENCIO POLO FIORELLA ERIKA
+Sueldo: 118.99
+Especialidad: Pediatria
+-----------------------------------------------------
+Nombre: SHIRAKAWA FLORIAN JAIME JULIAN PEDRO PEDRO JOSE
+Sueldo: 117.94
+Especialidad: Oftalmologia
+-----------------------------------------------------
+Nombre: URBINA ANTEZANO VALENTINA PAULA
+Sueldo: 117.94
+Especialidad: Cardiologia
+-----------------------------------------------------
+Nombre: MERCADO CARO OFELIA CARMEN
+Sueldo: 115.83
+Especialidad: Urologia
+-----------------------------------------------------
+Nombre: DEL CASTILLO MEJIA GUSTAVO ALONSO
+Sueldo: 114.78
+Especialidad: Geriatria
+-----------------------------------------------------
+Nombre: TABORI ARIAS ROSARIO
+Sueldo: 112.67
+Especialidad: Endocrinologia
+-----------------------------------------------------
+Nombre: CUBA POMAJAMBO VICTORIA FIORELLA
+Sueldo: 110.57
+Especialidad: Pediatria
+-----------------------------------------------------
+Nombre: ARANDA MINAYA JANET CINTHIA
+Sueldo: 110.57
+Especialidad: Urologia
+-----------------------------------------------------
+Nombre: PEREZ ANTEZANO DAVID CARLOS
+Sueldo: 108.46
+Especialidad: Neumologia
+-----------------------------------------------------
+Nombre: AYALA ZEVALLOS JOHAN ENRIQUE
+Sueldo: 105.3
+Especialidad: Dermatologia
+-----------------------------------------------------
+Nombre: PORTUGAL RAFFO ALEXANDER
+Sueldo: 103.19
+Especialidad: Ginecologia
+-----------------------------------------------------
+Nombre: SHIRAKAWA SAONA VICTORIA MILAGROS
+Sueldo: 102.14
+Especialidad: Oncologia
+-----------------------------------------------------
+Nombre: AYALA ZEVALLOS JOHAN ENRIQUE
+Sueldo: 101.09
+Especialidad: Ginecologia
+-----------------------------------------------------
+Nombre: COLLADO VILLA RAUL
+Sueldo: 100.04
+Especialidad: Cardiologia
+-----------------------------------------------------
+Nombre: DEL CASTILLO MEJIA GUSTAVO ALONSO
+Sueldo: 97.93
+Especialidad: Urologia
+-----------------------------------------------------
+Nombre: ZEGARRA CABELLO CINTHIA MILENA
+Sueldo: 94.77
+Especialidad: Neumologia
+-----------------------------------------------------
